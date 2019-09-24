@@ -1,0 +1,105 @@
+body {
+	font-family: arial, sans-serif;
+ 	font-size: 85%;
+}
+.c1 {
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 20px;
+	padding: 10px;
+}
+.connexion { 
+	border: 0;
+    line-height: 2;
+    padding: 5px;
+    font-size: 1rem;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #2569e0;
+    border-radius: 3px;
+}
+.main {
+	margin-top: 140px;
+	display: flex;
+	flex-direction: column;
+}
+.c2 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+.c3 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+.champnav {
+	border: 1px solid #FFFFFF;
+}
+.loupe {
+	height: 30%;
+	width: 60%;
+}
+.navigation {
+	display: flex;
+	justify-content: center;
+	width: 38%;
+	height: 43px;
+	border: 1px solid white;
+	border-radius: 30px;
+	box-shadow: 3px 3px 6px grey;
+}
+.c4 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+.recherchegoogle {
+    border: 0;
+    line-height: 2;
+    padding: 1 2px;
+    font-size: 1rem;
+    text-align: center;
+    color: #747474;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+}
+.jaidelachance {
+    border: 0;
+    line-height: 2;
+    padding: 1 2px;
+    font-size: 1rem;
+    text-align: center;
+    color: #747474;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+}
+.c5 {
+	display: flex;
+	justify-content: center;
+	margin-top: 140px;
+	display: flex;
+	justify-content: flex-start;
+	border: 0;
+    line-height: 2;
+    padding: 1 2px;
+    font-size: 1rem;
+    text-align: center;
+    color: #747474;
+    background-color: #f1f1f1;
+}
+.c6 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
+	display: flex;
+	justify-content: space-between;
+	border: 3px;
+	border-color: black;
+    line-height: 2;
+    padding: 1 2px;
+    font-size: 1rem;
+    text-align: center;
+    color: #747474;
+    background-color: #f1f1f1;
+}
