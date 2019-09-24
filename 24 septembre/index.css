@@ -1,0 +1,42 @@
+.c1 {
+	display: flex;
+	justify-content: flex-end;
+}
+.main{
+	width: 100%;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.c2 {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 50px;
+}
+.c3 {
+	margin-bottom: 10px;
+	height: 30px;
+	border: grey solid;
+	border-radius: 10px;
+	width:30%;
+}
+.navigation{
+	width: 50%;
+}
+.c4 {
+	margin-bottom: 20px;
+}
+.c5 {
+	margin-top: 240px;
+	display: flex;
+	justify-content: flex-start;
+}
+.c6 {
+	margin-bottom: 5px;
+	display: flex;
+	justify-content: space-between;
+}
+/*input[type=text]{
+width: #px;
+}
